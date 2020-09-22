@@ -1,0 +1,24 @@
+body{
+    background: seashell;
+}
+#amount{
+    background-color: wheat;
+    height: 3vh;
+}
+.Control{
+    background-color: beige;
+    width: 25%;
+    height: 4vh;
+}
+#startButton{
+    background-color: saddlebrown;
+    width: 10%;
+    height: 5vh;
+
+}
+
+
+
+
+
+
